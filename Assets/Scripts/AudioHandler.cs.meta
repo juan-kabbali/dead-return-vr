@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39572ac68d7760842b72b8b9d340835b
+timeCreated: 1447393041
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WolfHowl: {fileID: 8300000, guid: 03f1444ff9173694ab7ad3d9101efecb, type: 3}
+  - Shoot: {fileID: 8300000, guid: 093c7f919a52630449147b817ceec090, type: 3}
+  - shout: {fileID: 8300000, guid: aaaaaace6a616d54786ad5a8152f7b30, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
